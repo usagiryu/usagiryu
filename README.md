@@ -20,3 +20,5 @@ https://twitter.com/tuzi_moe
 https://www.instagram.com/usagiryuu/  
 
 [![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=tuzimoe&show_icons=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=tuzimoe&show_icons=true)
+
+![tuzimoe](https://count.getloli.com/get/@tuzimoe?theme=rule34)
