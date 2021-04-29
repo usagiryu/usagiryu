@@ -4,14 +4,8 @@
 我是兔子鮮笙，Usagi Ryuu 也是我.  
 This is Usagi Liu.  
 
-今年 19 歲，現就讀於奧克蘭大學理學院計算機科學系，大一  
-19 y.o. UoA Bachelor of Science Computer Science.  
-据非官方考证第一位 Bilibili 00 后员工
-```已经离职，去念大学啦```  
-Unoffical first Bilibili 00's crew.
-```Already back to uni```  
-在超酷的 @NaturalSelectionLabs 做全栈运营
-OP @NaturalSelectionLabs
+今年 19 歲，在超酷的 @NaturalSelectionLabs 做全栈运营
+19 Y.O .OP @NaturalSelectionLabs
 
 沒事寫點程序幻想讓世界變得更美好  
 
