@@ -1,14 +1,5 @@
-### 你好 👋 我是 TuziMoe
-### Hi 👋 This is TuziMoe
-
-我是兔子鮮笙，Usagi Ryuu 也是我.  
-This is Usagi Liu.  
-沒事寫點程序幻想讓世界變得更美好  
-洗洗睡了，歡迎交朋友
-
-https://tuzi.moe  
-https://twitter.com/tuzi_moe  
-https://www.instagram.com/usagiryuu/  
+### 你好 👋
+### Hi 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzimoe&layout=compact&hide=javascript,php,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzimoe&layout=compact&hide=javascript,php,html,css)  
   
