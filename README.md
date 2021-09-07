@@ -1,7 +1,24 @@
-### 你好 👋
-### Hi 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzimoe&layout=compact&hide=javascript,php,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzimoe&layout=compact&hide=javascript,php,html,css)  
+待歷經滄海 待閱盡悲歡 心方倦知返  
+君已塵滿面 污泥滿身 好個白髮迷途人  
+今日歸來不晚 彩霞濯滿天 明月作燭臺  
   
-[![](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=tuzimoe&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&username=tuzimoe&show_icons=true&count_private=true)  
+以苦難為船 以眼淚為帆 心似離弦箭  
+莫說天無涯 海無岸 縱然歸程須萬載  
+今日歸來不晚 與故人重來 天真作少年  
   
+你為什麼 言無聲淚如雨  
+你為什麼 仰起臉笑得像滿月  
+問那人間 千百回生老死別  
+與君歡顏 從此永留身邊  
+  
+滄浪之江  
+西來水泱泱  
+江上一輪明月  
+照多少沉浮過往  
+  
+滄浪之江  
+東往水莽莽  
+誰賞江上明月  
+誰聽江聲浩蕩  
+  
+[在木星](https://www.youtube.com/watch?v=UooX2DqzY-Q)
